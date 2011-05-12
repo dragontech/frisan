@@ -1,9 +1,9 @@
 <?php
-$txpcfg['db'] = 'mfrisan_mihai';
-$txpcfg['user'] = 'mfrisan_mihai';
-$txpcfg['pass'] = '2WTxE>Mcv3*6';
+$txpcfg['db'] = 'mihai_frisan';
+$txpcfg['user'] = 'mihai_frisan';
+$txpcfg['pass'] = 'terminator';
 $txpcfg['host'] = 'localhost';
 $txpcfg['table_prefix'] = '';
-$txpcfg['txpath'] = '/home/mfrisan/public_html/mihai/textpattern';
+$txpcfg['txpath'] = '/srv/www/frisan.ro/current/public_html/textpattern';
 $txpcfg['dbcharset'] = 'utf8';
 ?>
